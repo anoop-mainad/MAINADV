@@ -1,0 +1,118 @@
+﻿<!---------------------------Home Pixel Start---------------------------------- --> 
+<script type='text/javascript'>
+	rtgsettings ={
+
+			'pdt_url': '$pdt_url$',
+			'pagetype': 'home',
+			'key': 'GTM',
+			'token': '{token}',
+			'layer': 'iframe'
+		};
+	(function(d) {
+		var s = d.createElement('script'); s.async = true;s.id='madv2014rtg';s.type='text/javascript';
+		s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.mainadv.com/Visibility/Rtggtm2-min.js';
+		var a = d.getElementsByTagName('script')[0]; a.parentNode.insertBefore(s, a);
+	}(document));
+</script>
+
+<!---------------------------Home Pixel END---------------------------------- --> 
+<!---------------------------Category Pixel Start---------------------------------- --> 
+<script type='text/javascript'>
+	rtgsettings ={
+
+			'pdt_url': '$pdt_url$',
+			'pdt_category_list': '$pdt_category_list$',
+			'pagetype': 'category',
+			'key': 'GTM',
+			'token': '{token}',
+			'layer': 'iframe'
+		};
+	(function(d) {
+		var s = d.createElement('script'); s.async = true;s.id='madv2014rtg';s.type='text/javascript';
+		s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.mainadv.com/Visibility/Rtggtm2-min.js';
+		var a = d.getElementsByTagName('script')[0]; a.parentNode.insertBefore(s, a);
+	}(document));
+</script>
+
+<!---------------------------Category Pixel END---------------------------------- --> 
+<!---------------------------Product Pixel Start---------------------------------- --> 
+<script type='text/javascript'>
+	rtgsettings ={
+
+			'pdt_id': '$pdt_id$',
+			'pdt_sku': '$pdt_sku$',
+			'pdt_name': '$pdt_name$',
+			'pdt_price': '$pdt_price$',
+			'pdt_amount': '$pdt_amount$',
+			'pdt_currency': '$pdt_currency$',
+			'pdt_url': '$pdt_url$',
+			'pdt_photo': '$pdt_photo$',
+			'pdt_instock': '$pdt_instock$',
+			'pdt_expdate': '$pdt_expdate$',
+			'pdt_category_list': '$pdt_category_list$',
+			'pdt_smalldescription': '$pdt_smalldescription$', 
+			'pagetype': 'product',
+			'key': 'GTM',
+			'token': '{token}',
+			'layer': 'iframe'
+		};
+	(function(d) {
+		var s = d.createElement('script'); s.async = true;s.id='madv2014rtg';s.type='text/javascript';
+		s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.mainadv.com/Visibility/Rtggtm2-min.js';
+		var a = d.getElementsByTagName('script')[0]; a.parentNode.insertBefore(s, a);
+	}(document));
+</script>
+
+<!---------------------------Product Pixel END---------------------------------- --> 
+<!---------------------------Basket Pixel Start---------------------------------- --> 
+<script type='text/javascript'>
+	rtgsettings ={
+
+			'pdt_id': '$pdt_id$',
+			'pdt_sku': '$pdt_sku$',
+			'pdt_category_list': '$pdt_category_list$',
+			'pdt_url': '$pdt_url$',
+			'ty_orderamt':'$ty_orderamt$',
+			'ty_orderdate':'$ty_orderdate$',
+			'ty_orderstatus':'$ty_orderstatus$',
+			'pagetype': 'basket',
+			'key': 'GTM',
+			'token': '{token}',
+			'layer': 'iframe'
+		};
+	(function(d) {
+		var s = d.createElement('script'); s.async = true;s.id='madv2014rtg';s.type='text/javascript';
+		s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.mainadv.com/Visibility/Rtggtm2-min.js';
+		var a = d.getElementsByTagName('script')[0]; a.parentNode.insertBefore(s, a);
+	}(document));
+</script>
+
+<!---------------------------Basket Pixel END---------------------------------- --> 
+<!---------------------------checkout Pixel Start---------------------------------- --> 
+<script type='text/javascript'>
+	rtgsettings ={
+
+			'pdt_id': '$pdt_id$',
+			'pdt_sku': '$pdt_sku$',
+			'pdt_category_list': '$pdt_category_list$',
+			'ty_orderid':'$ty_orderid$', 
+			'ty_orderamt':'$ty_orderamt$',
+			'ty_orderdate':'$ty_orderdate$',
+			'ty_orderstatus':'$ty_orderstatus$',
+			'ty_cusname':'$ty_cusname$',
+			'ty_cusid':'$ty_cusid$',
+			'ty_custype':'$ty_custype$',
+			'ty_cuscoupon':'$ty_ cuscoupon$',
+			'pagetype': 'checkout',
+			'key': 'GTM',
+			'token': '{token}',
+			'layer': 'iframe'
+		};
+	(function(d) {
+		var s = d.createElement('script'); s.async = true;s.id='madv2014rtg';s.type='text/javascript';
+		s.src = (d.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.mainadv.com/Visibility/Rtggtm2-min.js';
+		var a = d.getElementsByTagName('script')[0]; a.parentNode.insertBefore(s, a);
+	}(document));
+</script>
+
+<!---------------------------Checkout Pixel END---------------------------------- --> 
